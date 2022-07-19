@@ -39,3 +39,17 @@ p{
     width: 550px;
 }
 
+#content h1{
+    margin:20px auto 0 auto;
+	display:table;
+	color:#93B5C6;
+	font-family:'Roboto', sans-serif; 
+}
+
+#content p{
+    margin:20px auto 0 auto;
+	display:table;
+	color:black;
+	font-family:'Roboto', sans-serif; 
+}
+
