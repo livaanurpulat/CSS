@@ -1,0 +1,41 @@
+.web-logo{
+    margin:5px auto;
+    display: table;
+
+    width: 250px;
+    height: auto;
+}
+.menu{
+    margin: 20px auto;
+    display:table;
+}
+
+.menu li{
+    float:left;
+    list-style-type: none;
+    margin-right: 50px;
+}
+ .menu li a{
+    color:#93B5C6;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    text-decoration: none;
+ }
+
+ .menu li a:hover{
+	color: #52646c;
+}
+
+p{
+    margin: 10px auto;
+    display: table;
+    font-family: 'Roboto', sans-serif;
+}
+
+.image{
+    margin: 5px auto;
+    display: table;
+    height: 350px;
+    width: 550px;
+}
+
